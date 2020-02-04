@@ -1,1 +1,3 @@
 print ("cofee")
+
+print ("tea")
